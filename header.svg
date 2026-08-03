@@ -1,13 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="300" viewBox="0 0 1500 300">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1e1b4b"/>
-      <stop offset="50%" stop-color="#312e81"/>
-      <stop offset="100%" stop-color="#4338ca"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#A03993"/>
+      <stop offset="100%" stop-color="#CE4968"/>
     </linearGradient>
     <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#fbbf24"/>
-      <stop offset="100%" stop-color="#f472b6"/>
+      <stop offset="0%" stop-color="#F8F8F9"/>
+      <stop offset="100%" stop-color="#F8F8F9"/>
     </linearGradient>
   </defs>
 
@@ -29,14 +28,14 @@
   <text x="1330" y="220" font-size="36" opacity="0.8">🖥️</text>
   <text x="120" y="130" font-size="32" opacity="0.7">🛠️</text>
 
-  <!-- title -->
-  <text x="750" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="bold" fill="#ffffff" letter-spacing="2">@AfroPK</text>
+  <!-- title (no @) -->
+  <text x="750" y="160" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="bold" fill="#ffffff" letter-spacing="2">AfroPK</text>
 
   <!-- gradient underline -->
-  <rect x="450" y="180" width="600" height="6" rx="3" fill="url(#accent)"/>
+  <rect x="480" y="180" width="540" height="6" rx="3" fill="url(#accent)"/>
 
   <!-- subtitle -->
-  <text x="750" y="228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#e0e7ff" letter-spacing="1">Tinkerer · Builder · Game-Server Host</text>
+  <text x="750" y="228" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#ffffff" opacity="0.95" letter-spacing="1">Tinkerer · Builder · Game-Server Host</text>
 
-  <text x="750" y="262" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#a5b4fc" opacity="0.9">small useful things · no bloat, no fuss</text>
+  <text x="750" y="262" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#ffffff" opacity="0.85">small useful things · no bloat, no fuss</text>
 </svg>
