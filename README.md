@@ -2,7 +2,7 @@
   <img src="header.svg" alt="AfroPK header banner" width="100%">
 </p>
 
-# Hey, I'm @AfroPK 👋
+# Hey, I'm AfroPK 👋
 
 > Tinkerer & builder of **small, useful things**. I like tools that just *work* —
 > no bloat, no fuss, no settings maze. If I can script it, I will.
